@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊師利菩薩根本大教王經金翅鳥王品
+#+DATE: 2015-08-30 20:33:53.418942
+#+PROPERTY: JUAN 0
